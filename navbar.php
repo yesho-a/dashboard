@@ -1,19 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>This is a Simple Bootstrap 5 based Dashboard</title>
-    <link rel="stylesheet" href="bootstrap.css">
-    <script src="/bootstrap.js"></script>
-    <script src="/popper.min.js"></script>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css">
-  
-
-</head>
-<body>
-    <nav class="main-header navbar navbar-expand navbar-dark navbar-dark text-sm">
+<nav class="main-header navbar navbar-expand navbar-dark navbar-dark text-sm">
         <!-- Left navbar links -->
         <ul class="navbar-nav">
           <li class="nav-item">
@@ -47,5 +32,3 @@
       </ul>
        
       </nav>
-</body>
-</html>
