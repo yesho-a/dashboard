@@ -37,7 +37,6 @@
               <i class="nav-icon fas fa-th"></i>
               <p>
                 Widgets
-                <span class="right badge badge-danger">New</span>
               </p>
             </a>
           </li>
@@ -47,7 +46,6 @@
               <p>
                 Layout Options
                 <i class="fas fa-angle-left right"></i>
-                <span class="badge badge-info right">6</span>
               </p>
             </a>
            
